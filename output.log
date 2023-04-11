@@ -1,0 +1,12 @@
+2023-04-11 15:50:00,855 [main] INFO  coffee.order.CoffeeOrderBoard - The work of the method add
+2023-04-11 15:50:00,860 [main] INFO  coffee.order.CoffeeOrderBoard - Create order: 1 | Alex [Coffee, Burger, Cake]
+2023-04-11 15:50:00,860 [main] INFO  coffee.order.CoffeeOrderBoard - The work of the method add
+2023-04-11 15:50:00,861 [main] INFO  coffee.order.CoffeeOrderBoard - Create order: 2 | Ann [Tea, Cake]
+2023-04-11 15:50:00,861 [main] INFO  coffee.order.CoffeeOrderBoard - The work of the method add
+2023-04-11 15:50:00,861 [main] ERROR coffee.order.CoffeeOrderBoard - Exception: Customer name error null
+2023-04-11 15:50:00,861 [main] INFO  coffee.order.CoffeeOrderBoard - The work of the method deliver
+2023-04-11 15:50:00,861 [main] INFO  coffee.order.CoffeeOrderBoard - Deliver order 1 | Alex
+2023-04-11 15:50:00,862 [main] INFO  coffee.order.CoffeeOrderBoard - The work of the method deliver by id Order
+2023-04-11 15:50:00,862 [main] INFO  coffee.order.CoffeeOrderBoard - Deliver order 2 | Ann
+2023-04-11 15:50:00,862 [main] INFO  coffee.order.CoffeeOrderBoard - The work of the method deliver by id Order
+2023-04-11 15:50:00,862 [main] INFO  coffee.order.CoffeeOrderBoard - order list is empty
